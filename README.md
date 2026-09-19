@@ -1,3 +1,4 @@
+<img width="1155" height="440" alt="player_status_youtube" src="https://github.com/user-attachments/assets/11f9729f-1a21-4f8d-be63-0dbbece6f256" />
 # PlayerStatus — Rainmeter Now Playing Widget
 
 A minimal Rainmeter widget that shows what's currently playing — track
